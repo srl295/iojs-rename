@@ -1,0 +1,23 @@
+{
+  "name": "iojs-rename",
+  "version": "1.0.0",
+  "description": "renamer for iojs-*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srl295/iojs-rename.git"
+  },
+  "author": "srl295",
+  "bugs": {
+    "url": "https://github.com/srl295/iojs-rename/issues"
+  },
+  "homepage": "https://github.com/srl295/iojs-rename#readme",
+  "private": true,
+  "dependencies": {
+    "cldr-data": "^28.0.2",
+    "cldrjs": "^0.4.3"
+  }
+}

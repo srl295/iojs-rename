@@ -1,0 +1,1021 @@
+# locale=en
+https://github.com/nodejs/iojs-ar/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-ar WG to nodejs/nodejs-ar
+
+
+
+Dear members of the io.js Arabic WG `iojs-ar`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-ar](https://github.com/nodejs/nodejs-ar/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-ar
+
+
+https://github.com/nodejs/iojs-bg/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-bg WG to nodejs/nodejs-bg
+
+
+
+Dear members of the io.js Bulgarian WG `iojs-bg`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-bg](https://github.com/nodejs/nodejs-bg/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-bg
+
+
+https://github.com/nodejs/iojs-bn/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-bn WG to nodejs/nodejs-bn
+
+
+
+Dear members of the io.js Bengali WG `iojs-bn`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-bn](https://github.com/nodejs/nodejs-bn/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-bn
+
+
+https://github.com/nodejs/iojs-cn/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-cn WG to nodejs/nodejs-zh-CN
+
+
+
+Dear members of the io.js Chinese (China) WG `iojs-cn`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-zh-CN](https://github.com/nodejs/nodejs-zh-CN/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-cn
+
+
+https://github.com/nodejs/iojs-cs/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-cs WG to nodejs/nodejs-cs
+
+
+
+Dear members of the io.js Czech WG `iojs-cs`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-cs](https://github.com/nodejs/nodejs-cs/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-cs
+
+
+https://github.com/nodejs/iojs-da/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-da WG to nodejs/nodejs-da
+
+
+
+Dear members of the io.js Danish WG `iojs-da`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-da](https://github.com/nodejs/nodejs-da/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-da
+
+
+https://github.com/nodejs/iojs-de/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-de WG to nodejs/nodejs-de
+
+
+
+Dear members of the io.js German WG `iojs-de`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-de](https://github.com/nodejs/nodejs-de/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-de
+
+
+https://github.com/nodejs/iojs-el/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-el WG to nodejs/nodejs-el
+
+
+
+Dear members of the io.js Greek WG `iojs-el`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-el](https://github.com/nodejs/nodejs-el/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-el
+
+
+https://github.com/nodejs/iojs-es/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-es WG to nodejs/nodejs-es
+
+
+
+Dear members of the io.js Spanish WG `iojs-es`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-es](https://github.com/nodejs/nodejs-es/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-es
+
+
+https://github.com/nodejs/iojs-fa/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-fa WG to nodejs/nodejs-fa
+
+
+
+Dear members of the io.js Persian WG `iojs-fa`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-fa](https://github.com/nodejs/nodejs-fa/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-fa
+
+
+https://github.com/nodejs/iojs-fi/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-fi WG to nodejs/nodejs-fi
+
+
+
+Dear members of the io.js Finnish WG `iojs-fi`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-fi](https://github.com/nodejs/nodejs-fi/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-fi
+
+
+https://github.com/nodejs/iojs-fr/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-fr WG to nodejs/nodejs-fr
+
+
+
+Dear members of the io.js French WG `iojs-fr`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-fr](https://github.com/nodejs/nodejs-fr/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-fr
+
+
+https://github.com/nodejs/iojs-he/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-he WG to nodejs/nodejs-he
+
+
+
+Dear members of the io.js Hebrew WG `iojs-he`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-he](https://github.com/nodejs/nodejs-he/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-he
+
+
+https://github.com/nodejs/iojs-hi/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-hi WG to nodejs/nodejs-hi
+
+
+
+Dear members of the io.js Hindi WG `iojs-hi`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-hi](https://github.com/nodejs/nodejs-hi/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-hi
+
+
+https://github.com/nodejs/iojs-hu/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-hu WG to nodejs/nodejs-hu
+
+
+
+Dear members of the io.js Hungarian WG `iojs-hu`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-hu](https://github.com/nodejs/nodejs-hu/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-hu
+
+
+https://github.com/nodejs/iojs-id/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-id WG to nodejs/nodejs-id
+
+
+
+Dear members of the io.js Indonesian WG `iojs-id`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-id](https://github.com/nodejs/nodejs-id/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-id
+
+
+https://github.com/nodejs/iojs-it/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-it WG to nodejs/nodejs-it
+
+
+
+Dear members of the io.js Italian WG `iojs-it`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-it](https://github.com/nodejs/nodejs-it/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-it
+
+
+https://github.com/nodejs/iojs-ja/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-ja WG to nodejs/nodejs-ja
+
+
+
+Dear members of the io.js Japanese WG `iojs-ja`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-ja](https://github.com/nodejs/nodejs-ja/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-ja
+
+
+https://github.com/nodejs/iojs-ka/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-ka WG to nodejs/nodejs-ka
+
+
+
+Dear members of the io.js Georgian WG `iojs-ka`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-ka](https://github.com/nodejs/nodejs-ka/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-ka
+
+
+https://github.com/nodejs/iojs-ko/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-ko WG to nodejs/nodejs-ko
+
+
+
+Dear members of the io.js Korean WG `iojs-ko`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-ko](https://github.com/nodejs/nodejs-ko/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-ko
+
+
+https://github.com/nodejs/iojs-mk/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-mk WG to nodejs/nodejs-mk
+
+
+
+Dear members of the io.js Macedonian WG `iojs-mk`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-mk](https://github.com/nodejs/nodejs-mk/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-mk
+
+
+https://github.com/nodejs/iojs-ms/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-ms WG to nodejs/nodejs-ms
+
+
+
+Dear members of the io.js Malay WG `iojs-ms`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-ms](https://github.com/nodejs/nodejs-ms/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-ms
+
+
+https://github.com/nodejs/iojs-nl/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-nl WG to nodejs/nodejs-nl
+
+
+
+Dear members of the io.js Dutch WG `iojs-nl`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-nl](https://github.com/nodejs/nodejs-nl/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-nl
+
+
+https://github.com/nodejs/iojs-no/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-no WG to nodejs/nodejs-no
+
+
+
+Dear members of the io.js Norwegian WG `iojs-no`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-no](https://github.com/nodejs/nodejs-no/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-no
+
+
+https://github.com/nodejs/iojs-pl/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-pl WG to nodejs/nodejs-pl
+
+
+
+Dear members of the io.js Polish WG `iojs-pl`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-pl](https://github.com/nodejs/nodejs-pl/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-pl
+
+
+https://github.com/nodejs/iojs-ro/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-ro WG to nodejs/nodejs-ro
+
+
+
+Dear members of the io.js Romanian WG `iojs-ro`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-ro](https://github.com/nodejs/nodejs-ro/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-ro
+
+
+https://github.com/nodejs/iojs-ru/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-ru WG to nodejs/nodejs-ru
+
+
+
+Dear members of the io.js Russian WG `iojs-ru`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-ru](https://github.com/nodejs/nodejs-ru/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-ru
+
+
+https://github.com/nodejs/iojs-sv/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-sv WG to nodejs/nodejs-sv
+
+
+
+Dear members of the io.js Swedish WG `iojs-sv`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-sv](https://github.com/nodejs/nodejs-sv/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-sv
+
+
+https://github.com/nodejs/iojs-sw/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-sw WG to nodejs/nodejs-sw
+
+
+
+Dear members of the io.js Swahili WG `iojs-sw`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-sw](https://github.com/nodejs/nodejs-sw/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-sw
+
+
+https://github.com/nodejs/iojs-ta/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-ta WG to nodejs/nodejs-ta
+
+
+
+Dear members of the io.js Tamil WG `iojs-ta`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-ta](https://github.com/nodejs/nodejs-ta/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-ta
+
+
+https://github.com/nodejs/iojs-tr/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-tr WG to nodejs/nodejs-tr
+
+
+
+Dear members of the io.js Turkish WG `iojs-tr`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-tr](https://github.com/nodejs/nodejs-tr/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-tr
+
+
+https://github.com/nodejs/iojs-tw/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-tw WG to nodejs/nodejs-zh-TW
+
+
+
+Dear members of the io.js Chinese (Taiwan) WG `iojs-tw`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-zh-TW](https://github.com/nodejs/nodejs-zh-TW/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-tw
+
+
+https://github.com/nodejs/iojs-uk/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-uk WG to nodejs/nodejs-uk
+
+
+
+Dear members of the io.js Ukrainian WG `iojs-uk`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-uk](https://github.com/nodejs/nodejs-uk/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-uk
+
+
+https://github.com/nodejs/iojs-vi/issues/new
+
+
+
+--------------
+
+Proposal: rename the nodejs/iojs-vi WG to nodejs/nodejs-vi
+
+
+
+Dear members of the io.js Vietnamese WG `iojs-vi`
+
+It is proposed to rename this repo to:
+
+   [nodejs/nodejs-vi](https://github.com/nodejs/nodejs-vi/)
+
+As part of the io.js and node.js convergence, node.js releases are now based on the codebase and user base of the converged node.js and io.js communities. A number of the resources and repositories have already been renamed.
+In the absence of objections or other discussion, this rename will occur on or after THREE WEEKS
+
+However, active language working groups should take ownership of this issue and discuss/dispose of it according to their own processes.
+
+For more information or to discuss the overall issue, please see and comment on https://github.com/nodejs/node/issues/2525
+
+
+
+This statement was authorized by the Node.js TSC
+
+Cc: @nodejs/iojs-vi
+
+
